@@ -5,7 +5,10 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//delete clone test
+	//dj+2@ programmr
 	
+	//machine launched from stopped machine
 }
 // delete condition
 
